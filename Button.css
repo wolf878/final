@@ -1,0 +1,47 @@
+/* on Nav bar */
+.button > .btn {
+    outline: none;
+    padding: 10px 15px;
+    margin-left: 10px;
+}
+
+.right-column > .button > .btn {
+    color: white;
+    background-color: #3a4049;
+    border: 1px solid #3a4049;
+    border-radius: 3px;
+    font-size: 1.3em;
+}
+
+.btn i {
+    color: #3CB371;
+}
+
+
+/* On Hero section */
+.bottom-btns {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.button > .btn-1 {
+    background-color: #3CB371;
+    color: black;
+    font-size: 1.6em;
+    padding: 15px 25px;
+    border: 1px solid #3CB371;
+    border-radius: 3px;
+    outline: none;
+    margin-left: 15px;
+}
+
+.bottom-btns > .button > .btn {
+    background-color: black;
+    color: white;
+    font-size: 1.6em;
+    border: 1px solid black;
+    border-radius: 3px;
+    outline: none;
+}
+
